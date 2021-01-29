@@ -1,6 +1,8 @@
 # Telraam-camera-holder
 Camera holder to be used with a telraam, more info at https://telraam.net.
 
+![on desk](https://raw.githubusercontent.com/KoenVdH/Telraam-camera-holder/main/on%20desk.jpg)
+
 ----- English text below ----
 
 Camera houder te gebruiken met een telraam van https://telraam.net

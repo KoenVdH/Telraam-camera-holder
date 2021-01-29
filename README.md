@@ -3,7 +3,23 @@ Camera holder to be used with a telraam, more info at https://telraam.net.
 
 ![on desk](https://raw.githubusercontent.com/KoenVdH/Telraam-camera-holder/main/on%20desk.jpg)
 
------ English text below ----
+----- Dutch text below ----
+Camera holder to be used with a telraam, more info at https://telraam.net.
+
+Youtube: https://youtu.be/wihXwbYlo0c
+
+To be printed with an FDM printer, no supports and text facing down!
+The mechanism gets loose by manipulating after printing.
+
+Can be placed on the window using tape.
+
+Fusion 360 files included.
+All improvements and remixes welcome.
+
+Have fun counting,
+Koen
+
+----- Dutch -----
 
 Camera houder te gebruiken met een telraam van https://telraam.net
 
@@ -19,19 +35,4 @@ Fusion 360 bestand staat er ook bij.
 Alle verbeteringen en remixes welkom.
 
 Veel tel plezier,
-Koen
-
-Camera holder to be used with a telraam, more info at https://telraam.net.
-
-Youtube: https://youtu.be/wihXwbYlo0c
-
-To be printed with an FDM printer, no supports and text facing down!
-The mechanism gets loose by manipulating after printing.
-
-Can be placed on the window using tape.
-
-Fusion 360 files included.
-All improvements and remixes welcome.
-
-Have fun counting,
 Koen
